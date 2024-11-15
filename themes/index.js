@@ -465,7 +465,7 @@ export const themes = {
   checorazza : {
     title_color: "FF79C6",
     icon_color: "2fc7cc",
-    text_color: "E1E1E6",
+    text_color: "a6accd",
     bg_color: "00000000",
   }
 };
